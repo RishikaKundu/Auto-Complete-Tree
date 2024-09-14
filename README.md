@@ -12,3 +12,5 @@ Word End Indicator: Each node has a boolean flag to indicate if it marks the end
 * Data Structure Implementation: Hands-on experience with implementing a trie, a foundational data structure for text processing.
 * Efficient Lookup: Understanding how prefix trees facilitate fast lookups and auto-completion by leveraging character-based node structures.
 * Recursive Traversal: Gained insight into using recursive methods for tree traversal to collect words based on prefixes.
+
+_This program was a part of a course assigment_
